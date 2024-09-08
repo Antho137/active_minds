@@ -23,8 +23,8 @@
 
 ## Links
 
-- Solution URL: https://github.com/Antho137/active-minds
-- Live Site URL: https://antho137.github.io/active-minds/
+- Solution URL: https://github.com/Antho137/active_minds
+- Live Site URL: https://antho137.github.io/active_minds/
 
 ## Author
 
