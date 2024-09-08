@@ -529,8 +529,8 @@ h3, h4, h5 {
 .footnav li {
     margin: 0;
     font-size: 1rem;
-    padding: 0 10px;
-	display: inline;
+    padding: 0;
+	display: inline-block;
 }
 
 .footnav a, .footnav a:hover {
@@ -776,7 +776,7 @@ h3, h4, h5 {
     }
 
     .footnav li {
-        padding: 10px;
+        padding: 10px 0;
     }
     
     .social {
